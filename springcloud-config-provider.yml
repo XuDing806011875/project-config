@@ -73,5 +73,3 @@ eureka:
   instance:
     instance-id: springcloud-dept8001
     prefer-ip-address: true     #访问路径可以显示IP地址
-
-
